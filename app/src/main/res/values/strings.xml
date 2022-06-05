@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="btn">Search</string>
+    <string name="title_hint">Title</string>
+    <string name="year_hint">Year</string>
+    <string name="waiting">Fetching Data..</string>
+</resources>

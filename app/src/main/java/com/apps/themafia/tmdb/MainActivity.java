@@ -113,6 +113,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void updateView(DataModel dataModel){
+
         mTextView1.setText("Title : " + dataModel.getTitle() + " (" + dataModel.getYear() + ")");
         mTextView2.setText("Actors: " + dataModel.getActors());
         mTextView3.setText("Director (s) : " + dataModel.getDirector());
